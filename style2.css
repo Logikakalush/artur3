@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    background-color:#C0856A;
+;
+    color: white;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #AE6075;
+}
+
+.button {
+    font-size: 30PX;
+    text-decoration: none;
+    color:blue;
+}
+
+nav {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 20px;
+    color :black}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 10px;
+}
+
+article {
+   background-color: red;
+   padding: 10px;
+   margin: 10px;
+   width: 400px;
+   height: 500px;
+}
+
+.article-but {
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+background-color: #C0856A;
+    color: red;
+}
+
+footer {
+   display: flex;
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+header img{
+    border: 20px inset #C0856A;
+    margin: 20PX;
+}
+section{
+    margin: 20px;
+}
+    
